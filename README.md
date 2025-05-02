@@ -48,5 +48,5 @@ O navegador será aberto automaticamente com a interface da agenda.
 
 ## Desenvolvido por 
 - [@Devmoises79]. 💻☕ 
-- Contato 📩: [@https://www.linkedin.com/in/moises-aniceto-71042a251/] | Linkedin 🔗
+- Contato 📩: [@https://www.linkedin.com/in/moises-aniceto-71042a251/] | Linkedin 🔗 
 
